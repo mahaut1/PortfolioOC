@@ -4,6 +4,8 @@ import kasa from '../img/kasa.png'
 import bookie from '../img/bookie.png'
 import sophieBluel from '../img/Sophie Bluel.png'
 import ninaCarducci from '../img/nina carducci.png'
+import artNClap from "../img/ArtNClap.png"
+import kiwanis from "../img/Kiwanis.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -121,6 +123,20 @@ export const info = {
             image: bookie,
             description:"J'ai créé ce site avec HTML et CSS. Compétences travaillées: Intégrer du contenu conformément à une maquette avec HTML et CSS, implémenter une interface responsive avec HTML et CSS"
         },
+        {
+            title: "Projet Art N Clap",
+            live: "https://art-n-clap.vercel.app/",
+            source: "https://github.com/mahaut1/ArtNClap",
+            image: artNClap,
+            description:"J'ai créé ce site avec HTML CSS et Bootstrap. Compétences travaillées: Intégrer du contenu conformément à une maquette avec HTML et CSS, implémenter une interface responsive avec HTML et CSS. ArtNClap est pour un projet que j'ai en commun avec des personnes de d'autres filières de mon école (audiovisuel, créa-design, communication). Mon boulot était de créer le site pour présenter les vidéos des différents artistes rencontrés."
+        },
+        {
+            title: "Projet Concours photos Kiwanis",
+            live: "https://www.kiwanis-photos.fr/",
+            source: "https://github.com/mahaut1/testkiwanis3",
+            image: kiwanis,
+            description:"J'ai créé ce site avec HTML et CSS. Compétences travaillées: Intégrer du contenu conformément à une maquette avec HTML et CSS, implémenter une interface responsive avec HTML et CSS. Kiwanis Concours Photo est mon projet de fin d'année. Kiwanis organise un concours photos et à demander des volontaires à mon école pour leur créer l'application. Le concours se fait pour les enfants de la ville d'Antibes et présente l'avantage d'être un projet réel et concret. Ce projet est en cours."
+        }
 
     ]
 }
