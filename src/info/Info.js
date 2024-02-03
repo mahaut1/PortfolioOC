@@ -97,26 +97,29 @@ export const info = {
             live: "https://au-vieux-grimmoire2.vercel.app/", 
             source: "https://github.com/mahaut1/AuVieuxGrimmoire", 
             image: Projet7,
-            description: "Site réalisé en node JS avec Express et MongoDB. Compétences travaillées: "
+            description: "Site réalisé en node JS avec Express et MongoDB. Compétences travaillées: Implémenter un modèle logique de données conformément à la réglementation, mettre en œuvre des opérations CRUD de manière sécurisée, stocker des données de manière sécurisée "
         },
         {
             title: "Projet Nina Carducci",
             live: "https://nina-carducci-eta.vercel.app/",
             source: "https://github.com/mahaut1/Nina_Carducci",
-            image: ninaCarducci
+            image: ninaCarducci,
+            description: "J'ai optimisé ce site de photographe avec JS et j'ai hébergé les images sur cloudinary. Compétences travaillées: Optimiser les performances d’un site web, débugger un site web grâce aux Chrome DevTools, Rédiger un cahier de recette pour tester un site."
         },
         {
             title: "Projet Sophie Bluel",
             live: "https://sophie-bluel-kx69lvu18-mahaut-windals-projects.vercel.app/",
             source: "https://github.com/mahaut1/Sophie-Bluel",
-            image: sophieBluel
+            image: sophieBluel,
+            description:"J'ai créé ce site en utilisant HTML, CSS et JS. Compétences travaillées: récupérer les données utilisateurs dans le JavaScript via des formulaires, manipuler les éléments du DOM avec JavaScript, gérer les événements utilisateurs avec JavaScript. "
         },
       
         {
             title: "Projet Bookie",
             live: "https://projet-booki-omega.vercel.app/",
             source: "https://github.com/mahaut1/Projet-Booki",
-            image: bookie
+            image: bookie,
+            description:"J'ai créé ce site avec HTML et CSS. Compétences travaillées: Intégrer du contenu conformément à une maquette avec HTML et CSS, implémenter une interface responsive avec HTML et CSS"
         },
 
     ]
